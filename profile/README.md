@@ -1,4 +1,4 @@
-# Welcome to Skunchoor Labs 🚀
+# Welcome to `skunchoor` Labs 🚀
 
 ### **The Engineering Hub of Sunil Kunchoor Basavaraju**
 **Senior MLOps Engineer | Azure & Databricks Architect | Retail AI Specialist**
